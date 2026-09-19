@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "eda5eb6bb0e8fd9e6eed3c29",
+  "owner": "mp4svvry5",
+  "repo": "page-126ef7086765925b3ba312ad",
+  "title": "ClashX官方下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "126ef7086765925b3ba312ad",
+      "a": "奶瓶(Nerwo)",
+      "b": "ClashX官方下载",
+      "entity": "奶瓶(Nerwo)",
+      "brand": "ClashX官方下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3c01df7e4c0dfe6c458f55424cd963060425cdf50cd04a14b1469ea65255e435",
+      "content": {
+        "primary_entity": "奶瓶(Nerwo)",
+        "keyword1": "奶瓶(Nerwo)",
+        "keyword2": "ClashX官方下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择订阅客户端，参照对应文档完成导入。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "先挑好套餐，再按客户端文档导入订阅，几步就能开始使用。",
+          "AI_CLOSING_TITLE": "选套餐配订阅",
+          "AI_DESCRIPTION": "，主打多设备订阅配置与套餐对比。基础版每月提供 100GB 流量，可同时在线 3 台设备；旗舰版每月 300GB 流量、5 台设备同时在线，并配有 IPLC 专线游戏加速优化；团队版每月 1000GB 流量，支持 20 台设备同时在线与 VIP 专属高带宽节点。按年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，给出直接的选择思路。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "轻度使用选基础版，每月 100GB 流量、3 台设备，适合手机与电脑切换。",
+          "AI_FEATURE_TEXT_2": "多设备与游戏需求选旗舰版，5 台设备在线，IPLC 专线优化延迟。",
+          "AI_FEATURE_TEXT_3": "团队共享看团队版，20 台设备与 1000GB 流量，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "按用量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数选套餐",
+          "AI_FEATURE_TITLE_3": "按周期省费用",
+          "AI_GUIDE_INTRO": "三步完成：确定套餐、核对设备条件、导入客户端订阅。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "奶瓶(Nerwo)提供基础版、旗舰版、团队版三档订阅，流量从每月 100GB 到 1000GB，支持 3 至 20 台设备同时在线。按年付价格更低，旗舰版含 IPLC 专线游戏加速优化，团队版支持企业定制路由。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "每月 100GB 至 1000GB 流量可选",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "按年付更省，最高省两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月；按年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先看每月流量与同时在线设备数，在基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TEXT_2": "确认常用设备系统，准备对应的订阅客户端并查看适配说明。",
+          "AI_STEP_TEXT_3": "在客户端中按文档导入订阅配置，保存后即可选择节点使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "多设备订阅，从选套餐开始",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "奶瓶(Nerwo)基础版和旗舰版怎么选？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、3台设备，适合单人轻度影音。旗舰版每月300GB、5台设备，含IPLC专线游戏加速，适合有游戏或多人共享需求的用户。按日常流量与设备数对照即可。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以几台设备同时用？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。超出数量可能导致连接受限，多设备家庭或小组建议直接选择对应档位，避免频繁切换。",
+          "AI_FAQ_QUESTION_3": "年付相比月付划算吗？",
+          "AI_FAQ_ANSWER_3": "年付基础版¥150、旗舰版¥350、团队版¥850，相当于按月付价格折算后有一定节省。如果确定长期使用，可按年订阅；短期试用则月付更灵活。",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在客户端中选择订阅导入或添加配置，粘贴购买后获取的订阅链接并更新节点列表。不同客户端的位置略有差异，按对应客户端文档操作即可完成。",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽后，可等待下个计费周期重置，或升级至更高流量档位。旗舰版300GB与团队版1000GB适合流量需求较大的场景，按实际用量选择更合适。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d0f9ebafb9a1d33a4f8b07dcf722b8f309c40241642addf2394495eb9cd4c934",
+    "sitemap.xml": "07de58150e69a9d8fd1048cd8a48e9b4422f950f5bb6df2a5503adbebebe6d07",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "e376a634bb4c8d10df869485bf40ef4e9ebec536a546b1806b9845ff4a192171"
+}
